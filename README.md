@@ -1,4 +1,4 @@
-<img src="programmer cat.gif" width="250px" align="rigth">
+<img src="banner.gif" width="250px" align="rigth">
 
 # Seja bem vindo ao meu Github!È bom ter você por aqui 😄
  📚sou estudante de desenvolvimento web
